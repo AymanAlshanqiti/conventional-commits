@@ -1,0 +1,23 @@
+{
+  "name": "conventional-commits",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AymanAlshanqiti/conventional-commits.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AymanAlshanqiti/conventional-commits/issues"
+  },
+  "homepage": "https://github.com/AymanAlshanqiti/conventional-commits#readme",
+  "devDependencies": {
+    "standard-version": "^9.3.0"
+  }
+}
