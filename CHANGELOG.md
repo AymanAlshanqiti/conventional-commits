@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/AymanAlshanqiti/conventional-commits/compare/v1.1.0...v1.1.1) (2021-05-30)
+
+
+### Bug Fixes
+
+* restructure the code ([cadcf12](https://github.com/AymanAlshanqiti/conventional-commits/commit/cadcf128c1ba3762167f2913f0580be0626695c5))
+
 ## [1.1.0](https://github.com/AymanAlshanqiti/conventional-commits/compare/v1.0.1...v1.1.0) (2021-05-30)
 
 
